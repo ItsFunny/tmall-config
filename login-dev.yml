@@ -5,7 +5,7 @@ spring:
     password: 123
     driver-class-name: com.mysql.jdbc.Driver
     freemarker:
-#    suffix: .html
+      suffix: .html
 tmall: 
   datasource: 
     url: jdbc:mysql://localhost/cloud_tmall?characterEncoding=utf-8
